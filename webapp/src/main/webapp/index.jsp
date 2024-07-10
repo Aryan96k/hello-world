@@ -3,6 +3,7 @@
     <h1>Sign Up</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
+    <h1>WELCOME</h1>
     <br>
     <h1>Hello From Aryan</h1>
 
