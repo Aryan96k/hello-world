@@ -3,7 +3,7 @@
     <h1>Sign Up</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-    <h1>WELCOME FROM ARYAN</h1>
+    <h2>WELCOME FROM ARYAN JADHAV</h2>
     <br>
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" required>
